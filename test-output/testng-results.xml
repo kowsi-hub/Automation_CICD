@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-14T10:53:04 IST" name="Default suite" finished-at="2024-09-14T10:53:20 IST" duration-ms="16494">
+    <groups>
+      <group name="ErrorHandling">
+        <method signature="ErrorValidationsTest.LoginErrorValidations()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" name="LoginErrorValidations" class="kowsalyaLearning.tests.ErrorValidationsTest"/>
+      </group> <!-- ErrorHandling -->
+    </groups>
+    <test started-at="2024-09-14T10:53:04 IST" name="Default test" finished-at="2024-09-14T10:53:20 IST" duration-ms="16494">
+      <class name="kowsalyaLearning.tests.ErrorValidationsTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" started-at="2024-09-14T10:53:04 IST" name="launchApplication" finished-at="2024-09-14T10:53:11 IST" duration-ms="7416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="LoginErrorValidations()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" started-at="2024-09-14T10:53:11 IST" name="LoginErrorValidations" finished-at="2024-09-14T10:53:12 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginErrorValidations -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" started-at="2024-09-14T10:53:12 IST" name="tearDown" finished-at="2024-09-14T10:53:13 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" started-at="2024-09-14T10:53:13 IST" name="launchApplication" finished-at="2024-09-14T10:53:17 IST" duration-ms="4090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="ProductErrorValidations()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" started-at="2024-09-14T10:53:17 IST" name="ProductErrorValidations" finished-at="2024-09-14T10:53:20 IST" duration-ms="3206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductErrorValidations -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:kowsalyaLearning.tests.ErrorValidationsTest@550dbc7a]" started-at="2024-09-14T10:53:20 IST" name="tearDown" finished-at="2024-09-14T10:53:20 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- kowsalyaLearning.tests.ErrorValidationsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
